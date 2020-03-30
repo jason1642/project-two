@@ -22,16 +22,18 @@
 
 
 ## Components : 
--Header
--Ticker
--Side News
--Main News
--Watch List
--Stock Info Page
+- Header
+- Ticker
+- Side News
+- Main News
+- Watch List
+- Stock Info Page
+
 # Component Heirarchy
+```
 -src
 --components
- - Header
+ -Header
   -Header.js
   -Header.css
  -MainNews
@@ -49,6 +51,7 @@
  -WatchList
   -WatchList.js
   -WatchList.css
+  ```
 ![Main page]()
 ![Info page]()
 ## API's used
