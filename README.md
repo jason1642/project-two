@@ -8,6 +8,17 @@
 - Stock prices will update every 20 seconds or so automatically
 - User can remove a watchlist cell
 - User can select what kind of news they want the website to display- (example: Technology, world, business)
+
+## MVP 
+- Display news on the main page both in the middle and left side section
+- Allow user to add to a stock watchlist and have that data stored in the state
+- Clicking on a watchList cell will bring up a stock information rendered page that shows more information and news about that company
+- Using both grid and flex
+- Create multiple tests
+- Media queries
+
+## Post MVP
+- Add suggested input for when the user types something in the search box 
 ## Style : 
 - Main section will use grid to divide sidebar news, main news, and watchlist
 - Ticker between header and main section
@@ -52,8 +63,8 @@
   -WatchList.js
   -WatchList.css
   ```
-![Main page]()
-![Info page]()
+![Main page](https://github.com/jason1642/project-two/blob/master/Screen%20Shot%202020-03-29%20at%2010.53.38%20PM.png)
+![Info page](https://github.com/jason1642/project-two/blob/master/Screen%20Shot%202020-03-29%20at%2011.47.10%20PM.png)
 ## API's used
 - News API : https://developer.nytimes.com/
 - Stock data API : https://iexcloud.io/console/
