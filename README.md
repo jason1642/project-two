@@ -28,6 +28,27 @@
 -Main News
 -Watch List
 -Stock Info Page
+# Component Heirarchy
+-src
+--components
+ - Header
+  -Header.js
+  -Header.css
+ -MainNews
+  -MainNews.js
+  -MainNews.css
+ -SideNews
+  -SideNews.js
+  -SideNews.css
+ -StockDetail
+  -StockDetail.js
+  -StockDetail.css
+ -Ticker
+  -Ticker.js
+  -Ticker.css
+ -WatchList
+  -WatchList.js
+  -WatchList.css
 ![Main page]()
 ![Info page]()
 ## API's used
