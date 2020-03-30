@@ -1,7 +1,7 @@
 ## Project Two : Aliantra II - a bit closer to yahoo finance
 
 ## The sites main(and new) features
--Home page allows user to find a stock by either entering company name or symbol, to add to their watchList, limit 15
+- Home page allows user to find a stock by either entering company name or symbol, to add to their watchList, limit 15
 - Upon clicking on watchlist cell, it will take user to a different render where it shows more details about that company
 -News will be displayed in the middle and left side of the home page, upon clicking on it, it will take user to the news website 
 - Ticker will display etfs in an infinite loop
@@ -63,7 +63,11 @@
   -WatchList.js
   -WatchList.css
   ```
+  
+# Main Page
 ![Main page](https://github.com/jason1642/project-two/blob/master/Screen%20Shot%202020-03-29%20at%2010.53.38%20PM.png)
+
+# Info page
 ![Info page](https://github.com/jason1642/project-two/blob/master/Screen%20Shot%202020-03-29%20at%2011.47.10%20PM.png)
 ## API's used
 - News API : https://developer.nytimes.com/
