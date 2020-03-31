@@ -1,0 +1,19 @@
+.side-news-container {
+  grid-row: 2/3;
+  grid-column: 1/2;
+  background-color: wheat;
+  height: 110vh;
+  margin-top: 1px;
+  border: 1px solid black;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.side-news-div {
+  border: 1px solid black;
+  width: 100%;
+}
+
+.side-news-img {
+  width: 100%;
+}

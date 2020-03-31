@@ -1,17 +1,18 @@
 import React, { Component } from "react"
+import "./WatchList.css"
 
-class WatchList extends Component {
-  constructor(props) {
-    super(props);
-    this.state = {
+const WatchList = props => {
+  return (
+    <div className="watchlist-container">
+      <div className="watchlist-title">My Watchlist</div>
+      <div className="watchlist-cell">1</div>
+      <div className="watchlist-cell">2</div>
+      <div className="watchlist-cell">3</div>
+      <div className="watchlist-cell">4</div>
 
-    }
-  }
-  render() {
-    return (
-      <h1>Watch List</h1>
-    )
-  }
+    </div>
+  )
+
 }
 
 export default WatchList
