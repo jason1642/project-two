@@ -1,4 +1,4 @@
-## Project Two : Aliantra II - a bit closer to yahoo finance
+## Project Two : News Hub
 
 ## The sites main(and new) features
 - Home page allows user to find a stock by either entering company name or symbol, to add to their watchList, limit 15
